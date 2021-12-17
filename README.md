@@ -10,17 +10,17 @@ One downside to this approach is that `darkValue` needs to be a reference becaus
 ```npm run build ```
 
 ### Web demo
-- Open the index.html file in the web > demo folder
+- Open the `index.html` file in the `web/demo` folder
 
 ### iOS demo
 - `cd ios/demo`
 - Install the style dictionary CocoaPod with `pod install`
 `open StyleDictionaryDarkModeDemo.xcworkspace` to open the Xcode workspace
-- Click the play ▶️ button to build and run the demo
+- Click the play ▶️  button to build and run the demo
 
 ### Android demo
 - Open the android folder in Android Studio
-- Click the play ▶️ button to build and run the demo in an emulator
+- Click the play ▶️  button to build and run the demo in an emulator
 
 ## Token setup
 All the raw color values are included in the `core.json` file. The colors are separated into objects corresponding as closely as possible to how they are set up in Figma.
@@ -41,6 +41,3 @@ To generate the colorsets in the single-token method, we will create only the ne
 
 ### Android
 We will use the same method to generate the Android resources as we did for generating CSS files. We will wrap the `android/resources` built-in format with the dark mode format wrapper function.
-
-
-
