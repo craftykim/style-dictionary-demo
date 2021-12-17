@@ -15,12 +15,12 @@ One downside to this approach is that `darkValue` needs to be a reference becaus
 ### iOS demo
 - `cd ios/demo`
 - Install the style dictionary CocoaPod with `pod install`
-`open StyleDictionaryDarkModeDemo.xcworkspace` to open the Xcode workspace
-- Click the play ▶️  button to build and run the demo
+- Type `open StyleDictionaryDarkModeDemo.xcworkspace` to open the Xcode workspace
+- Click the play button to build and run the demo
 
 ### Android demo
 - Open the android folder in Android Studio
-- Click the play ▶️  button to build and run the demo in an emulator
+- Click the play button to build and run the demo in an emulator
 
 ## Token setup
 All the raw color values are included in the `core.json` file. The colors are separated into objects corresponding as closely as possible to how they are set up in Figma.
