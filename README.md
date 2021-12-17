@@ -7,7 +7,10 @@ Using the single-token method, we're able to run Style Dictionary only once sinc
 One downside to this approach is that `darkValue` needs to be a reference because of how Style Dictionary works, since Style Dictionary only transforms the value property of a token. Therefore, we set up a `core.json` file with the raw values, and then reference it with the other files like `background.json` and `font.json`.
 
 ## Usage
-```npm run build ```
+```
+npm install
+npm run build
+```
 
 ### Web demo
 - Open the `index.html` file in the `web/demo` folder

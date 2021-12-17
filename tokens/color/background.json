@@ -3,11 +3,11 @@
     "background": {
       "primary": {
         "value": "{color.core.focus.0.value}",
-        "darkValue": "{color.core.focus.9.value}"
+        "darkValue": "{color.core.focus.900.value}"
       },
       "interactive": {
-        "value": "{color.core.peace.1.value}",
-        "darkValue": "{color.core.peace-dark.4.value}"
+        "value": "{color.core.peace.100.value}",
+        "darkValue": "{color.core.peace-dark.400.value}"
       }
     }
   }
