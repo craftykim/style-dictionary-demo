@@ -1,0 +1,66 @@
+{
+	"fonts": {
+		"heading m": {
+			"category": "font",
+			"exportKey": "font",
+			"fontSize": {
+				"value": 120,
+				"type": "number",
+				"unit": "pixel"
+			},
+			"fontFamily": {
+				"value": "Inter",
+				"type": "string"
+			},
+			"fontWeight": {
+				"value": 800,
+				"type": "number"
+			},
+			"fontStyle": {
+				"value": "normal",
+				"type": "string"
+			},
+			"letterSpacing": {
+				"value": 0,
+				"type": "number",
+				"unit": "percent"
+			},
+			"lineHeight": {
+				"value": 73,
+				"type": "number",
+				"unit": "percent"
+			}
+		},
+		"heading l": {
+			"category": "font",
+			"exportKey": "font",
+			"fontSize": {
+				"value": 146,
+				"type": "number",
+				"unit": "pixel"
+			},
+			"fontFamily": {
+				"value": "Montserrat",
+				"type": "string"
+			},
+			"fontWeight": {
+				"value": 800,
+				"type": "number"
+			},
+			"fontStyle": {
+				"value": "normal",
+				"type": "string"
+			},
+			"letterSpacing": {
+				"value": -4.67,
+				"type": "number",
+				"unit": "pixels"
+			},
+			"lineHeight": {
+				"value": 146,
+				"type": "number",
+				"unit": "pixel"
+			}
+		}
+	}
+}

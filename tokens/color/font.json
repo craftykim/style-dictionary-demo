@@ -1,0 +1,10 @@
+{
+  "color": {
+    "font": {
+      "primary": {
+        "value": "{color.core.focus.9.value}",
+        "darkValue": "{color.core.focus.1.value}"
+      }
+    }
+  }
+}
