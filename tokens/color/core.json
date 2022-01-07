@@ -1,6 +1,14 @@
 {
   "color": {
     "core": {
+      "interactive": {
+        "hover-focus": { "value": "#054C58"}
+      },
+
+      "interactive-dark": {
+        "hover-focus": { "value": "#27ADB3"}
+      },
+
       "peace": {
         "100": { "value": "#CFF9FA" },
         "200": { "value": "#5FDDE0" },
@@ -108,6 +116,19 @@
         "700": { "value": "#2E2E2E" },
         "800": { "value": "#1E1E1E" },
         "900": { "value": "#000000" }
+      },
+
+      "focus-dark": {
+        "0": { "value": "#000000" },
+        "100": { "value": "#1E1E1E" },
+        "200": { "value": "#2E2E2E" },
+        "300": { "value": "#424242" },
+        "400": { "value": "#5F5F5F" },
+        "500": { "value": "#787878" },
+        "600": { "value": "#C7C7C7" },
+        "700": { "value": "#EDEDED" },
+        "800": { "value": "#FAFAFA" },
+        "900": { "value": "#FFFFFF" }
       }
     }
   }

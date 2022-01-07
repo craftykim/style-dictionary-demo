@@ -1,0 +1,22 @@
+{
+  "color": {
+    "interactive": {
+      "default": {
+        "value": "{color.core.peace.400.value}",
+        "darkValue": "{color.core.peace-dark.200.value}"
+      },
+      "active-pressed": {
+        "value": "{color.core.peace-dark.500.value}",
+        "darkValue": "{color.core.peace-dark.100.value}"
+      },
+			"hover-focus": {
+        "value": "{color.core.interactive.hover-focus.value}",
+        "darkValue": "{color.core.interactive-dark.hover-focus.value}"
+      },
+			"disabled": {
+        "value": "{color.core.focus.300.value}",
+        "darkValue": "{color.core.focus-dark.300.value}"
+      }
+    }
+  }
+}

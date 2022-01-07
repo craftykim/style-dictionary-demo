@@ -1,0 +1,22 @@
+{
+  "unversionedId": "components/buttons",
+  "id": "components/buttons",
+  "title": "Buttons",
+  "description": "Button",
+  "source": "@site/docs/components/buttons.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/buttons",
+  "permalink": "/components/buttons",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/components/buttons.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Links",
+    "permalink": "/components/links"
+  }
+}
