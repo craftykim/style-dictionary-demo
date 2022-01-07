@@ -3,7 +3,7 @@
     "background": {
       "primary": {
         "value": "{color.core.focus.0.value}",
-        "darkValue": "{color.core.focus.900.value}"
+        "darkValue": "{color.core.focus.90.value}"
       }
     }
   }

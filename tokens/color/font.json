@@ -2,8 +2,8 @@
   "color": {
     "font": {
       "primary": {
-        "value": "{color.core.focus.900.value}",
-        "darkValue": "{color.core.focus.100.value}"
+        "value": "{color.core.focus.90.value}",
+        "darkValue": "{color.core.focus.10.value}"
       }
     }
   }
