@@ -47,10 +47,10 @@ fs.removeSync(webPath);
 
 // For demo only
 const fileVariables = "web/dist/variables.css";
-const newFileVariables = "web/demo/src/css/variables.css";
+const newFileVariables = "web/demo/css/variables.css";
 
 const fileVariablesDark = "web/dist/variables-dark.css";
-const newFileVariablesDark = "web/demo/src/css/variables-dark.css";
+const newFileVariablesDark = "web/demo/css/variables-dark.css";
 
 // Copy files so we can use them in the demo folder
 function copyFile(file, newFile) {

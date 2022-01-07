@@ -1,0 +1,11 @@
+.color-background-primary {
+	background-color: var(--color-background-primary);
+}
+
+.color-background-interactive {
+	background-color: var(--color-interactive-default);
+}
+
+body {
+	color: var(--color-font-primary);
+}
